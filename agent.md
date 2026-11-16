@@ -1,0 +1,3 @@
+- Android dùng Kotlin
+- front end dùng react js
+- backend dùng Express.js
